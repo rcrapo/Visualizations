@@ -8,5 +8,5 @@ The visualizations show a break down of the accidents by the __following dimensi
 - Type of accident in relation to the driver/rider
 - Severity of harm done to the driver/rider
 
-The PNG file included in this folder is only a snapshot of the total data. The full visualization with interactive tooltip and animation by year can be found [here](https://public.tableau.com/profile/robert4290#!/vizhome/RoadAccidentsinCanada1999-2014/Multidimensionalbyyearanimation?publish=yes).
+The PNG file included in this folder is only a snapshot of the total data. The __full visualization__ with interactive tooltip and animation by year can be found [here](https://public.tableau.com/profile/robert4290#!/vizhome/RoadAccidentsinCanada1999-2014/Multidimensionalbyyearanimation?publish=yes).
 
