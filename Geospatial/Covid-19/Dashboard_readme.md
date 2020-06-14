@@ -1,4 +1,4 @@
-# Covid-19 cases in British Columbia
+# Covid-19 Cases in British Columbia
 This [Tableau dashboard](https://public.tableau.com/profile/robert4290#!/vizhome/Covid-19CasesBritishColumbia2020/Covid-19BCDashboard?publish=yes) gives an interactive look at the confirmed cases of Covid-19 in BC. The dashboard breaks down the cases by:
 
 - Age Group
